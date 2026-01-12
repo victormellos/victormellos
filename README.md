@@ -2,25 +2,12 @@
 
 <table>
   <tr>
-    <td valign="top">
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=victormellos&show_icons=true&theme=radical"
-           alt="GitHub stats">
-    </td>
-    <td valign="top">
-      <!-- Badges -->
       <a href="https://www.codewars.com/users/victormellos">
         <img src="https://www.codewars.com/users/victormellos/badges/micro"
              alt="Codewars badge"
              height="30",
             width="150">
       </a>
-      <br>
-      <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"
-           alt="Badge Python"
-           height="50",
-          width="150">
-    </td>
   </tr>
 </table>
 
@@ -57,11 +44,6 @@ de aprendizado e evolução técnica.
   <li>
     <a href="https://www.linkedin.com/in/victor-augusto-mellos-108568334/?_l=pt_BR">
       LinkedIn
-    </a>
-  </li>
-  <li>
-    <a href="https://www.roblox.com/pt/users/1177490606/profile">
-      Roblox
     </a>
   </li>
 </ul>
