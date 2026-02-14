@@ -46,4 +46,7 @@ de aprendizado e evolução técnica.
       LinkedIn
     </a>
   </li>
+  <li>
+    📧 Gmail: victormellos2009@gmail.com
+  </li>
 </ul>
