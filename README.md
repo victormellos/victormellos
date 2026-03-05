@@ -1,17 +1,5 @@
 <h1>👋 Oi, eu sou o Victor!</h1>
 
-<table>
-  <tr>
-      <a href="https://www.codewars.com/users/victormellos">
-        <img src="https://www.codewars.com/users/victormellos/badges/micro"
-             alt="Codewars badge"
-             height="30",
-            width="150">
-      </a>
-  </tr>
-</table>
-
-
 <p>
 Sou estudante de Desenvolvimento de Sistemas e tenho interesse em
 <b>diversas áreas da programação</b>.<br>
