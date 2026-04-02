@@ -1,40 +1,18 @@
-<h1>👋 Oi, eu sou o Victor!</h1>
+# Hi, I'm Victor Mellos
 
-<p>
-Sou estudante de Desenvolvimento de Sistemas e tenho interesse em
-<b>diversas áreas da programação</b>.<br>
-Busco constantemente novos desafios, encarando-os como oportunidades
-de aprendizado e evolução técnica.
-</p>
+```csharp
+if (problem.Exists)
+{
+    Learn();
+    Fix();
+    Improve();
+}
+```
 
-<h2>😎 Sobre mim</h2>
-<ul>
-  <li>🎓 Em constante busca por novos conhecimentos e experiências.</li>
-  <li>🔭 Desenvolvimento de projetos pessoais e acadêmicos.</li>
-</ul>
 
-<h2>📁 Projetos</h2>
-<ul>
-  <li>
-    <a href="https://github.com/GabrielVMaia/Projeto_SA">
-      Projeto TechNova
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/victormellos/Projeto-SA-2">
-      Projeto AutoMax Soluções
-    </a>
-  </li>
-</ul>
+---
 
-<h2>📞 Contato</h2>
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/victor-augusto-mellos-108568334/?_l=pt_BR">
-      LinkedIn
-    </a>
-  </li>
-  <li>
-    📧 Gmail: victormellos2009@gmail.com
-  </li>
-</ul>
+## About Me
+
+I am a developer from Brazil who enjoys building all kinds of software, from games and tools to experiments and unusual ideas, I like to turn my ideas into real projects!
+
